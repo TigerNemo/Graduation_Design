@@ -1,7 +1,7 @@
 # 数据统计与xgb模型训练
 天池O2O新手赛   AUC=0.7980 排名 508/21362
 
-     data_processing.py 数据预处理部分，包括数据集打标和数据集划分;
+     data_processing.py 数据统计及导入数据库
      feat_section.py    特征区间的特征工程代码
      label_section.py   预测区间的特征工程代码
      model.py           xgb模型训练
