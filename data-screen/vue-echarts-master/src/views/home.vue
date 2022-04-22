@@ -6,7 +6,7 @@
         </div>
       </div>
       <div class="header-title">
-        大数据可视化平台
+        优惠券使用预测分析系统
       </div>
       <div class="selectRange">
         <Menu mode="horizontal" >
